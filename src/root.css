@@ -1,0 +1,8 @@
+/* TODO MOVE TO APP */
+body {
+    background: 
+    radial-gradient(circle closest-corner at left, rgba(14, 185, 185, 0.5) 20%, 65%, transparent) no-repeat,
+        radial-gradient(circle closest-corner at right, rgba(14, 185, 185, 0.5) 20%, 65%, transparent) no-repeat,
+         black !important;
+    min-height: 100vh;
+}
