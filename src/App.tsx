@@ -27,7 +27,7 @@ let App: React.FC<ComponentProps> = () => {
     return <ThemeProvider theme={theme}>
         <CssBaseline />
         <Grid container direction="column" justify="space-between" alignContent="center" style={{ height: "100vh" }}>
-            <Typography className={classes.title} align="center" variant="h1">DIMAKA</Typography>
+            <Typography className={classes.title} align="center" variant="h1">DIMAKA.LOVE</Typography>
             <Typography
                 align="center"
                 color="textSecondary"
